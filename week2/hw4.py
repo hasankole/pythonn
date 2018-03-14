@@ -13,4 +13,4 @@ if list(my_str) == list(rev_str):
 
 else:
     print("polidrom değildir")
-© 2018 GitHub, Inc.
+
